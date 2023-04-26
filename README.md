@@ -1,2 +1,2 @@
 # Parallax-Webiste
-Created using Html  and Css
+Created using Html and Css
